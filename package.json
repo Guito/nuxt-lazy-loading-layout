@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-lazy-loading-layout",
+  "version": "1.0.0",
+  "description": "Testing",
+  "author": "Enrique González",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
