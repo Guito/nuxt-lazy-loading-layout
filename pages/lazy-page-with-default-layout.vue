@@ -1,5 +1,5 @@
 <template>
-    <div class="lazy">
+    <div class="lazy-page-default-layout">
         Lazy page
     </div>
 </template>
@@ -11,7 +11,7 @@
 </script>
 
 <style lang="scss" scoped>
-    .lazy {
-        color: blue;
+    .lazy-page-default-layout {
+        color: green;
     }
 </style>
